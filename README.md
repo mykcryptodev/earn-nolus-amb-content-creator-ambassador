@@ -1,2 +1,3 @@
-# earn-nolus-amb-content-creator-ambassador
-Superteam Earn agent submission: Content Creator - Ambassador
+# Content Creator - Ambassador
+
+Agent-submitted work for Superteam Earn.
